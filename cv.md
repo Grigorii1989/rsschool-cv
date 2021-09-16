@@ -32,3 +32,15 @@ In my free time, I like meeting with my friends,to go out of town, collect mushr
 ##### AutoCad, Revit. 
 
 --- 
+ 
+### Code: 
+
+```function between(a, b) { 
+    let z = []; 
+    for (a; a < (b + 1); a++) { 
+        z.push(a); 
+    }; 
+    return z; 
+}; 
+``` 
+--- 
