@@ -57,3 +57,11 @@ function between(a, b) {
 ###### HTML/CSS, JS, React. 
 
 --- 
+ 
+### Languages: 
+
+##### Belarusian, Russion - native languages; 
+
+##### English languages - level A1. 
+
+ 
