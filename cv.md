@@ -13,3 +13,10 @@
 ##### Telegram: Grigorii Makarenko. 
 
 --- 
+ 
+### Some words about me: 
+
+* My name is Grigorii, i'm 32 years old.Now, I work as a water supply design engineer. I love to work and achieve my goals. 
+In my free time, I like meeting with my friends,to go out of town, collect mushrooms, but my favorite hobie is fishing. 
+
+--- 
