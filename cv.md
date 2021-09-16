@@ -35,7 +35,8 @@ In my free time, I like meeting with my friends,to go out of town, collect mushr
  
 ### Code: 
 
-```function between(a, b) { 
+```
+function between(a, b) { 
     let z = []; 
     for (a; a < (b + 1); a++) { 
         z.push(a); 
@@ -43,4 +44,16 @@ In my free time, I like meeting with my friends,to go out of town, collect mushr
     return z; 
 }; 
 ``` 
+--- 
+  
+### Education: 
+
+##### Belarusian National Technical University 
+
+###### Faculty of Power Engineering 
+
+##### Сourses: 
+
+###### HTML/CSS, JS, React. 
+
 --- 
