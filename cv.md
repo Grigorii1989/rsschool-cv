@@ -20,3 +20,15 @@
 In my free time, I like meeting with my friends,to go out of town, collect mushrooms, but my favorite hobie is fishing. 
 
 --- 
+
+### Skills: 
+
+##### HTML/CSS(SCSS); 
+
+##### JavaScript(React); 
+
+##### Git/GitHub; 
+
+##### AutoCad, Revit. 
+
+--- 
