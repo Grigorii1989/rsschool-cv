@@ -1,0 +1,96 @@
+.hero{
+    text-align: center;
+    background-color: rgb(148, 148, 197);
+}
+body{
+    margin: 0;
+    box-sizing: border-box;    
+}
+h1{
+    margin: 0;
+    padding: 20px 0 10px 0;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+.conteiner{
+    width: 1320px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+}
+a{
+    text-decoration-line: none;
+    color: black;
+}
+.imgavatar{
+    right: 0;
+    width: 20%;
+
+}
+.imgavatar img{
+    width: 100%;
+    
+}
+.contacts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.contacts li{
+    padding-bottom: 8px;
+    list-style-type: none;
+}
+.aboutme{
+    width: 50%;
+}
+h3{
+padding-left: 30px;
+margin: 20px 0 0 0;
+}
+footer{
+    margin-top: 50px;
+}
+.del_stty{
+    list-style-type: none;
+}
+footer .conteiner{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 40px;
+    border-top: 3px solid black;
+}
+footer p{
+    text-align: center;
+}
+
+.footer_logorss{
+    display: flex;
+}
+.img_rss{
+    width: 20%;
+}
+.img_rss img{
+    width: 100%;
+}
+.link_rss{
+    margin: auto 0 auto 30px;
+}
+.footer_logogh{
+    display: flex;
+}
+.img_git{
+    width: 20%;
+    margin: auto 0;
+}
+.img_git img{
+    width: 100%;
+}
+.link_git{
+    margin: auto 0 auto 30px;
+}
+.link_git_or{
+    margin: 0 0 5px 0;
+}
